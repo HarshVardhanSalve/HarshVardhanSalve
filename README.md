@@ -1,3 +1,9 @@
-## 💫 About Me
-
-👋 Hi, I’m Harshvardhan Salve, a 👨‍🎓 B.Tech (3rd Year) student at 🏫 SGSITS Indore. 🔭 I’m currently working on web development projects using React, Next.js, and TypeScript, along with backend integration using Appwrite, MongoDB, and MySQL. 👯 I’m looking to collaborate on full-stack web applications and open-source projects related to React and Next.js. 🤝 I’m seeking help with advanced backend architecture and performance optimization in full-stack applications. 🌱 I’m currently learning Next.js (App Router), TypeScript best practices, and Appwrite backend services. 💬 You can ask me about HTML, CSS, JavaScript, React, Next.js, TypeScript, Appwrite, MongoDB, and MySQL. ⚡ Fun fact: I enjoy turning ideas into real-world applications and love learning new technologies 🚀. 💻 I mainly work on Windows and Ubuntu LTS.
+👋 Hi, I’m Harshvardhan Salve  
+👨‍🎓 I’m a B.Tech (3rd Year) CSE student at SGSITS Indore  
+👀 I’m interested in full-stack web development  
+🌱 I’m currently learning Next.js (App Router), TypeScript, and Appwrite  
+🔭 I’m currently working on React & Next.js projects with backend integration  
+🤝 I’m looking to collaborate on full-stack and open-source projects  
+💻 I work on Windows and Ubuntu LTS  
+📫 How to reach me: harshvardhansalve17042005@gmail.com  
+⚡ Fun fact: I love turning ideas into real-world applications 🚀
