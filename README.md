@@ -1,7 +1,6 @@
 👋 Hi, I’m Harshvardhan Salve  
-👨‍🎓 I’m a B.Tech (3rd Year) CSE student at SGSITS Indore  
-👀 I’m interested in full-stack web development  
-🌱 I’m currently learning Next.js (App Router), TypeScript, and Appwrite  
+👨‍🎓 I’m a B.Tech (4th Year) CSE student at SGSITS Indore  
+👀 I’m interested in full-stack web development   
 🔭 I’m currently working on React & Next.js projects with backend integration  
 🤝 I’m looking to collaborate on full-stack and open-source projects  
 💻 I work on Windows and Ubuntu LTS  
